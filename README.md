@@ -5,7 +5,7 @@
 2. Upload everything in this folder (index.html, data.json, .nojekyll, the assets folder).
 3. Repo **Settings > Pages**: Source = *Deploy from a branch*, Branch = `main`, folder `/ (root)`. Save.
 4. Your site appears at `https://YOUR-USERNAME.github.io/portfolio/` after about a minute.
-   Certificate wall: add `#certificates` to that link.
+   Certificate wall: add `#certificates` to that link..
 
 ## Manage content (admin)
 1. GitHub > Settings > Developer settings > Personal access tokens > **Fine-grained tokens** > Generate.
